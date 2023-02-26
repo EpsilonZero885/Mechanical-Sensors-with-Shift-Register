@@ -12,9 +12,9 @@
  */
 
 
-//Pin connected to ST_CP of 74HC595
 #include <Arduino.h>
 
+//Pin connected to ST_CP of 74HC595
 int latchPin = 6;
 
 //Pin connected to SH_CP of 74HC595
