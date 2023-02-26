@@ -1,4 +1,4 @@
- Project uses Arduino UNO R3 to show 3 different Vibration Sensor fuctions 
+Project uses Arduino UNO R3 and a 74HC595 Shift Register to demonstrate operation of 3 different Mechanical Sensors, with output to colored LEDs
 
 Materials:
  1 x Arduino UNO R3 (Cpu USB power supply)
