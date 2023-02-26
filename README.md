@@ -16,7 +16,7 @@ Materials:
  1 x Breadboard
  Misc Wires
 
-Pinouts
+Pinouts (Reads best if opened with notepad)
 	UNO		74HC595		Tap		Shock		Tilt		LED1		LED2		LED3		LED4		LED5		LED6
 	5VDC		VCC+MR		VCC		VCC		VCC		N/C		N/C		N/C		N/C		N/C		N/C
 	GND		GND+OE		GND		GND		GND		CAT		CAT		CAT		CAT		CAT		CAT
